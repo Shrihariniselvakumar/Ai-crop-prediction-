@@ -11,6 +11,8 @@ This project combines machine learning and generative AI to help farmers make da
 ---
 
 ## 📸 App Screenshots
+<img width="607" height="290" alt="Screenshot 2026-06-07 184911" src="https://github.com/user-attachments/assets/dfc7f953-8a39-48f9-a998-cd3b09dd8599" />
+
 
 ### 🔍 Exploratory Data Analysis
 ![EDA Dashboard](screenshots/eda_dashboard.png)
