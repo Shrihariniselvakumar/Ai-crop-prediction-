@@ -19,14 +19,20 @@ This project combines machine learning and generative AI to help farmers make da
 > Upload your dataset and instantly explore patterns — the EDA tab processes CSV files and surfaces key agricultural insights.
 
 ### 📊 Water vs Yield Analysis
+<img width="603" height="335" alt="Screenshot 2026-06-07 185022" src="https://github.com/user-attachments/assets/93f0f3f2-43e2-454d-803c-b6c75b7ae86d" />
+
 ![Water vs Yield Chart](screenshots/water_vs_yield.png)
 > Stacked bar chart showing how water availability (Scarcity → Abundant) correlates with crop yield levels (Low / Medium / High).
 
 ### 🤖 Crop Prediction Input Panel
+<img width="604" height="340" alt="Screenshot 2026-06-07 190325" src="https://github.com/user-attachments/assets/1a202d68-dbdd-4208-ad62-bfa008900338" />
+
 ![Prediction Panel](screenshots/prediction_panel.png)
 > Input your soil type, crop type, irrigation method, and area — the model predicts yield (ton/hectare) and recommends the best crop instantly.
 
 ### 📈 Feature Importance Chart
+<img width="608" height="345" alt="Screenshot 2026-06-07 190342" src="https://github.com/user-attachments/assets/1fb5b999-5bf4-4046-bf95-dd462fcc5b84" />
+
 ![Feature Importance](screenshots/feature_importance.png)
 > XGBoost feature importance plot revealing which soil and climate factors drive yield predictions the most.
 
