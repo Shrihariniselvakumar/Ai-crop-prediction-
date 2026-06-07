@@ -134,12 +134,6 @@ Streamlit displays results, charts & recommendations
 
 ---
 
-## 🏆 Achievements
-
-- 🎖️ Presented at **Kalam Awards** — Recognised for innovation in AI-powered agriculture
-
----
-
 ## 👩‍💻 Author
 
 **Shri Harini Selvakumar**
